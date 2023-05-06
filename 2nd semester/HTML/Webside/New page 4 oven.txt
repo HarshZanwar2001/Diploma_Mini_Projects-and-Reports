@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Mahalaxmi Electronics</title>
+<style>
+p {background-color: lightblue;}
+img{bordercolor:red; width="400"; height="250"; align="right"}
+h3{color:red;}
+ul{color:green; style="square";}
+</style>
+<body>
+<marquee><center><h1>Mahalaxmi Electronics</h1></center></marquee>
+<hr>
+<img src="C:\Users\Harsh Zanwar\Desktop\Webside\ov1.jpeg" alt="ov1.jpeg"width="250"; height="250"; align="right" border="2" >
+<font size="6"><a href="h1.html">IFB 23 L Convection Microwave Oven  (23SC3, Silver)#JustHere</a> </font>    <img src="C:\Users\Harsh Zanwar\Desktop\WPD Microproject\symbol.jpg" alt="symbol.jpg" width="120" height="60" border="2" ><br>
+ <h2><b>$8,999                     <strike>$13,090 </strike> </b></h2>
+<ul style="square">
+<li>Special PriceGet extra ?1000 off (price inclusive of discount)T&C<br><li>
+<li>Bank Offer5% instant discount on SBI Credit CardsT&C<br><li>
+<li>Bank OfferExtra ?400 Off on All Credit/Debit Cards, Net Banking and EMI transactionsT&C<br><li>
+</ul>
+<hr>
+<img src="C:\Users\Harsh Zanwar\Desktop\Webside\ov2.jpeg" alt="ov2.jpeg"width="250"; height="250"; align="right" border="2" >
+<font size="6"><a href="h1.html">LG 20 L Solo Microwave Oven  (MS2043BP, Black)#JustHere</a> </font>    <img src="C:\Users\Harsh Zanwar\Desktop\WPD Microproject\symbol.jpg" alt="symbol.jpg" width="120" height="60" border="2" ><br>
+ <h2><b>$5,990                     <strike>$9.090</strike> </b></h2>
+<ul style="square">
+<li>Special PriceGet extra ?500 off (price inclusive of discount)T&C<br><li>
+<li>Bank Offer10% instant discount on SBI Credit CardsT&C<br><li>
+<li>Bank OfferExtra ?400 Off on All Credit/Debit Cards, Net Banking and EMI transactionsT&C<br><li>
+</ul>
+<hr>
+<img src="C:\Users\Harsh Zanwar\Desktop\Webside\ov3ok.jpeg" alt="ov3ok.jpeg"width="250"; height="250"; align="right" border="2" >
+<font size="6"><a href="h1.html">LG 21 L Convection Microwave Oven  (MC2146BL, Black)</a> </font>    <img src="C:\Users\Harsh Zanwar\Desktop\WPD Microproject\symbol.jpg" alt="symbol.jpg" width="120" height="60" border="2" ><br>
+ <h2><b>$                   <strike>$</strike> </b></h2>
+<ul style="square">
+<li>Special PriceGet extra ?1500 off (price inclusive of discount)T&C<br><li>
+<li>Bank Offer10% instant discount on SBI Credit CardsT&C<br><li>
+<li>Bank OfferExtra ?500 Off on All Credit/Debit Cards, Net Banking and EMI transactionsT&C<br><li>
+</ul>
+<hr>
